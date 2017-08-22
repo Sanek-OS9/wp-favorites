@@ -1,0 +1,10 @@
+.freelax-favorites-del{
+    color:#ff0000;
+    font-weight: bold;
+}
+.freelax-favorites-del:hover{
+    color:#cc0000;
+}
+.freelax-favorites-hidden{
+    display: none;
+}

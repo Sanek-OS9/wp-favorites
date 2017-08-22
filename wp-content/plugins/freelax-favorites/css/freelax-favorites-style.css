@@ -1,0 +1,16 @@
+p.freelax-favorites a{
+    background-color: #d4cdce;
+    padding: 5px;
+    text-decoration: none;
+    border: none;
+    border-radius: 15px;
+}
+p.freelax-favorites{
+
+}
+.freelax-favorites-hidden{
+    display: none;
+}
+.widget_freelax_favorites_widget ul{
+    list-style: none;
+}
